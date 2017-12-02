@@ -1,3 +1,3 @@
-# hello-world2
+# hello-world
 
 Hello, hello, hello!
